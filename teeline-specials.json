@@ -1,0 +1,186 @@
+[
+	{
+		"letterGrouping": "ac",
+		"meanings": ["account"]
+	},
+	{
+		"letterGrouping": "altv",
+		"meanings": ["alternative"]
+	},
+	{
+		"letterGrouping": "bs",
+		"meanings": ["business"]
+	},
+	{
+		"letterGrouping": "cb",
+		"meanings": ["club"]
+	},
+	{
+		"letterGrouping": "co",
+		"meanings": ["company"]
+	},
+	{
+		"letterGrouping": "cv",
+		"meanings": ["convenient"]
+	},
+	{
+		"letterGrouping": "dv",
+		"meanings": ["develop"]
+	},
+	{
+		"letterGrouping": "ec",
+		"meanings": ["enclose"]
+	},
+	{
+		"letterGrouping": "etc",
+		"meanings": ["et cetera"]
+	},
+	{
+		"letterGrouping": "f",
+		"meanings": ["from"]
+	},
+	{
+		"letterGrouping": "gn",
+		"meanings": ["general"]
+	},
+	{
+		"letterGrouping": "gv",
+		"meanings": ["government"]
+	},
+	{
+		"letterGrouping": "imd",
+		"meanings": ["immediate"]
+	},
+	{
+		"letterGrouping": "imp",
+		"meanings": ["important"]
+	},
+	{
+		"letterGrouping": "oh",
+		"meanings": ["of the"]
+	},
+	{
+		"letterGrouping": "opr",
+		"meanings": ["opportunity"]
+	},
+	{
+		"letterGrouping": "prm",
+		"meanings": ["permanent"]
+	},
+	{
+		"letterGrouping": "rp",
+		"meanings": ["representative"]
+	},
+	{
+		"letterGrouping": "tg",
+		"meanings": ["together"]
+	},
+	{
+		"letterGrouping": "wt",
+		"meanings": ["what"]
+	},
+	{
+		"letterGrouping": "pr",
+		"meanings": ["percent", "per cent", "%"]
+	},
+	{
+		"letterGrouping": "kg",
+		"meanings": ["kilogram", "kilograms"]
+	},
+	{
+		"letterGrouping": "jny",
+		"meanings": ["january"]
+	},
+	{
+		"letterGrouping": "fb",
+		"meanings": ["february"]
+	},
+	{
+		"letterGrouping": "mr",
+		"meanings": ["march", "metre"]
+	},
+	{
+		"letterGrouping": "apr",
+		"meanings": ["april"]
+	},
+	{
+		"letterGrouping": "ma",
+		"meanings": ["may"]
+	},
+	{
+		"letterGrouping": "jy",
+		"meanings": ["july"]
+	},
+	{
+		"letterGrouping": "ag",
+		"meanings": ["august"]
+	},
+	{
+		"letterGrouping": "spt",
+		"meanings": ["september"]
+	},
+	{
+		"letterGrouping": "oct",
+		"meanings": ["october"]
+	},
+	{
+		"letterGrouping": "nv",
+		"meanings": ["november"]
+	},
+	{
+		"letterGrouping": "dc",
+		"meanings": ["december"]
+	},
+	{
+		"letterGrouping": "mn",
+		"meanings": ["monday"]
+	},
+	{
+		"letterGrouping": "ts",
+		"meanings": ["tuesday"]
+	},
+	{
+		"letterGrouping": "wd",
+		"meanings": ["wednesday"]
+	},
+	{
+		"letterGrouping": "thrs",
+		"meanings": ["thursday"]
+	},
+	{
+		"letterGrouping": "fry",
+		"meanings": ["friday"]
+	},
+	{
+		"letterGrouping": "st",
+		"meanings": ["saturday"]
+	},
+	{
+		"letterGrouping": "sn",
+		"meanings": ["sunday"]
+	},
+	{
+		"letterGrouping": "mrs",
+		"meanings": ["metres"]
+	},
+	{
+		"letterGrouping": "cnmr",
+		"meanings": ["centimetre"]
+	},
+	{
+		"letterGrouping": "cnmrs",
+		"meanings": ["centimetres"]
+	},
+	{
+		"letterGrouping": "kmr",
+		"meanings": ["kilometre"]
+	},
+	{
+		"letterGrouping": "kmrs",
+		"meanings": ["kilometres"]
+	},
+	{
+		"letterGrouping": "lrs",
+		"meanings": ["litres"]
+	}
+]
